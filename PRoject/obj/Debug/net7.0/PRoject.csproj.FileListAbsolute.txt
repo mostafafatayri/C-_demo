@@ -1,0 +1,15 @@
+/Users/mostafafatayri/Projects/PRoject/PRoject/bin/Debug/net7.0/PRoject
+/Users/mostafafatayri/Projects/PRoject/PRoject/bin/Debug/net7.0/PRoject.deps.json
+/Users/mostafafatayri/Projects/PRoject/PRoject/bin/Debug/net7.0/PRoject.runtimeconfig.json
+/Users/mostafafatayri/Projects/PRoject/PRoject/bin/Debug/net7.0/PRoject.dll
+/Users/mostafafatayri/Projects/PRoject/PRoject/bin/Debug/net7.0/PRoject.pdb
+/Users/mostafafatayri/Projects/PRoject/PRoject/obj/Debug/net7.0/PRoject.csproj.AssemblyReference.cache
+/Users/mostafafatayri/Projects/PRoject/PRoject/obj/Debug/net7.0/PRoject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mostafafatayri/Projects/PRoject/PRoject/obj/Debug/net7.0/PRoject.AssemblyInfoInputs.cache
+/Users/mostafafatayri/Projects/PRoject/PRoject/obj/Debug/net7.0/PRoject.AssemblyInfo.cs
+/Users/mostafafatayri/Projects/PRoject/PRoject/obj/Debug/net7.0/PRoject.csproj.CoreCompileInputs.cache
+/Users/mostafafatayri/Projects/PRoject/PRoject/obj/Debug/net7.0/PRoject.dll
+/Users/mostafafatayri/Projects/PRoject/PRoject/obj/Debug/net7.0/refint/PRoject.dll
+/Users/mostafafatayri/Projects/PRoject/PRoject/obj/Debug/net7.0/PRoject.pdb
+/Users/mostafafatayri/Projects/PRoject/PRoject/obj/Debug/net7.0/PRoject.genruntimeconfig.cache
+/Users/mostafafatayri/Projects/PRoject/PRoject/obj/Debug/net7.0/ref/PRoject.dll
